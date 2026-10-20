@@ -17,10 +17,8 @@ I build modern web platforms and internal tools that replace outdated processes,
 
 ## 🚀 Featured Work
 
-- **Mi7rabi Cars:** Luxury vehicle platform with live inventory, instant vehicle search, a budget finder and automated sourcing agents that search multiple marketplaces in parallel and email customers a PDF brochure.
-- **Luxury Zone:** Bilingual (Arabic/English) luxury dealership website with an internal CRM (employee & owner portals, lead tracking, team chat).
-- **[Loki Reviews](https://lokireview.com):** Live, mobile-first product recommendation site with discount codes, click analytics, 2FA-protected admin and automated backups.
-- **Jobilvo:** AI job-matching platform for Saudi Arabia & the UAE, aggregating thousands of postings from public job-board APIs.
+- **[Mi7rabi Cars](https://mi7rabicars.com/):** Luxury vehicle platform with live inventory, instant vehicle search, a budget finder and automated sourcing agents that search multiple marketplaces in parallel and email customers a PDF brochure.
+- **[Luxury Zone](https://www.luxuryzonecars.com/en):** Bilingual (Arabic/English) luxury dealership website with an internal CRM (employee & owner portals, lead tracking, team chat).
 - **Event RSVP & QR Entry:** 300-guest invitation system with secure one-time links, QR entry cards, a staff scanner and 34 automated end-to-end tests.
 
 ## 🌍 Languages
